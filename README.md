@@ -1,1 +1,2 @@
 # MedBase
+In todays world, where it is nearly impossible to provide security to the data that is being stored in a centralized environment. We aimed to develop a Software called as MedBase to store the Electronic Health Records (EHR) in a distributed environment by using Blockchain technology, that will enhance the storange security of data by creating transparency among the Patients and Doctors. This software provides the Electronic Health Record (EHR) system with key benefits like scalability, security, transperancy and Blockchain technology based solution.  

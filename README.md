@@ -1,2 +1,2 @@
-#Medbase
+# MedBase
 In todays world, it is nearly impossible to store the data in a secured environment.While developing this project we aimed to develop a software with the implementation of Blockchain Technology that can store Electronic Health Records (EHR) that will create transparency among the different users and will provide secure environemnt of the health records.By implementation of Blockchain Technology the EHR can be stored in a distributed environemnt that gives the benefits of transparency, trust among users, secured environment to store that records/data.  
